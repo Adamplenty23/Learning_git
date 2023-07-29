@@ -1,1 +1,7 @@
-This repo helps us to learn about git
+# LEARNING OBJECTIVES
+
+## C PROGRAMMING
+
+1. This repo helps us to learn about c programming
+
+2. Just kidding....  
